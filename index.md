@@ -38,8 +38,6 @@ The deadline for abstracts and paper submissions has been extended to <span styl
   - [Marsha Chechik](https://www.cs.toronto.edu/~chechik/), University of Toronto, Canada
  - [Rajeev Alur](https://www.cis.upenn.edu/~alur/), UPenn, USA
 
--->
-
 ### Past Editions
 - [FACS 2023](https://facs-conference.github.io/2023/){:target="_blank"}, online, October 19-20, 2023
 - [FACS 2022](https://facs-conference.github.io/2022/){:target="_blank"}, online, November 10-11, 2022
