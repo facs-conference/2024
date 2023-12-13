@@ -1,8 +1,8 @@
-title: FACS 2023
+title: FACS 2024
 preposition: at
 description: >-
   19th International Conference on Formal Aspects of Component Software, 19-20 October 2023 (online)
-baseurl: "/2023" # the subpath of your site, e.g. /blog
+baseurl: "/2024" # the subpath of your site, e.g. /blog
 url: "https://facs-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
