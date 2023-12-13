@@ -1,0 +1,20 @@
+# For each talk, add a file in `_talks/`
+# For each speaker, add a file in `_speakers/`
+# For each room, add a file in `_rooms/`
+days:
+  - name: Thursday, 19 Oct
+    abbr: Thu
+    date: 2023-10-19
+    
+
+  - name: Friday, 20 Oct
+    abbr: Fri
+    date: 2023-10-20
+    
+
+
+          
+
+
+
+

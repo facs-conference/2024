@@ -1,0 +1,31 @@
+{% unless site.conference.link_preview.disable -%}
+  {%- include partials/get_page_title.html default=site.title replace_quotes=true -%}
+  {%- include partials/get_page_description.html default=site.title replace_quotes=true -%}
+
+  <meta name="description" content="{{ page_description }}" />
+
+  <meta name="theme-color" content="c3d3fe">
+  <link rel="shortcut icon" type="image/png" href="/2023/assets/icons/favicon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/2022/assets/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/2022/assets/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/2022/assets/icons/favicon-16x16.png">
+  <link rel="mask-icon" href="/2022/assets/icons/favicon.svg" color="#3684F0">
+  <link rel="manifest" href="/2022/assets/icons/site.webmanifest">
+
+  <meta name="twitter:card" content="summary" />
+  {%- if site.conference.link_preview.img and site.conference.link_preview.img.twitter %}
+  <meta name="twitter:image" content="{{ site.conference.link_preview.img.twitter | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url }}" />
+  {%- endif %}
+  <meta name="twitter:title" content="{{ page_title }}" />
+  <meta name="twitter:description" content="{{ page_description }}" />
+
+  <meta property="og:site_name" content="{{ site.title }}" />
+  {%- if site.conference.link_preview.img and site.conference.link_preview.img.open_graph %}
+  <meta property="og:image" content="{{ site.conference.link_preview.img.open_graph | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url }}" />
+  {%- endif %}
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:description" content="{{ page_description }}" />
+  <meta property="og:type" content="website" />
+
+{%- endunless %}

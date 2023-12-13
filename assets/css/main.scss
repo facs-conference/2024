@@ -1,0 +1,153 @@
+---
+---
+
+$fa-font-path: '{{ site.baseurl }}/assets/webfonts';
+
+@import 'conference';
+
+.border-soft-hidden {
+  display: none !important;
+}
+
+.alert-hidden {
+  color: #0b2f13;
+  background-color: #daf5ff;
+  border-color: #92dbf6;
+}
+
+.table th, .table td {
+  width: 690px;
+}
+
+a {
+  color: #002faf;
+}
+
+.mb-3, .my-3 {
+  margin-bottom: 1rem !important;
+}
+
+.container {
+  margin-top: 1rem;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #ccd2e4;
+}
+
+.navbar-light {
+  background-color: #c3d3fe !important;
+}
+
+.dark-nav {
+  color: #fff;
+  font-weight:500;
+}
+
+img {
+    max-width: 100%;
+    height:auto
+}
+
+img[title=logo] {
+  max-width: 235px !important;
+  max-height: 90px;
+  padding: 10px;
+}
+
+img[title=logoSmall] {
+  max-width: 235px !important;
+  max-height: 70px;
+  padding: 10px;
+}
+
+.thanks {
+  text-align:center;
+  font-size: 0.7rem;
+  /*color: #444;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.8rem;
+}
+
+.photo-speaker {
+  max-height: 15rem;
+}
+
+.speakers-hover {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+    background: white;
+}
+
+.speakers-hover:hover {
+    opacity: 0.40;
+}
+
+
+.speakergroup {
+  display: grid;
+}
+
+.navbar {
+  padding-top: 0rem;
+  margin-top: -8pt;
+}
+
+.masthead {
+  padding-top: 2.5rem;
+  padding-bottom: 6rem;
+  text-align: center;
+  color: #fff;
+  background-image: url('../../assets/img/malaga.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  max-height: 400px;
+  margin-bottom: 20px;
+}
+.masthead .masthead-subheading {
+  font-size: 1.2rem;
+  font-style: italic;
+  line-height: 1.5rem;
+  margin-bottom: 25px;
+  font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.masthead .masthead-heading {
+  font-size: 2.75rem;
+  font-weight: 700;
+  line-height: 3.25rem;
+  margin-bottom: 2rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+
+
+@media (min-width: 768px) {
+  .masthead {
+    padding-top: 7rem;
+    padding-bottom: 8.5rem;
+    /* padding-top: 17rem;
+    padding-bottom: 12.5rem; */
+    max-height: 400px;
+  }
+  .masthead .masthead-subheading {
+    font-size: 1.25rem;
+    font-style: italic;
+    line-height: 1.0rem;
+    margin-bottom: 2rem;
+  }
+  .masthead .masthead-heading {
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 4.5rem;
+    margin-bottom: 2rem;
+  }
+}

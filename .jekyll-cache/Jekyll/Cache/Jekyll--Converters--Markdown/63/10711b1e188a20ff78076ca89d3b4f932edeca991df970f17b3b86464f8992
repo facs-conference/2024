@@ -1,0 +1,96 @@
+I"<!--
+# Welcome to FACS 2023!
+
+The 19th International Conference on Formal Aspects of Component Software will
+take place on 19-20 October 2023. FACS 2023 will be an online conference.
+ -->
+
+<!-- # We are online! -->
+
+<!-- See the program here: [Thursday](../2022/program/#thu), [Friday](../2022/program/#fri) -->
+
+<!-- Zoom link for the presentations: [https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09](https://uio.zoom.us/j/64897891096?pwd=a2RzakgzMlFMWmJHVGRUcDVJNXY3UT09){:target="_blank"} -->
+
+<!-- Coffee breaks at wonder.me: [https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a](https://app.wonder.me/?spaceId=5076bfe7-29fe-45d9-b0f7-310381f4772a){:target="_blank"} -->
+
+<h1 id="about-facs">About FACS</h1>
+
+<p>The Formal Aspects of Component Software (FACS) conference series targets
+research in formal approaches for distributed components and services. The
+conferences cover topics including models, languages, analysis and
+verification techniques for component-based systems such as service-oriented
+architecture, cloud and edge computing, safety-critical, hybrid and cyber
+physical systems, etc.</p>
+
+<p>The 19th edition of FACS will take place online on October 19-20 2023.</p>
+
+<h3 id="proceedings-and-special-issue">Proceedings and Special Issue</h3>
+
+<ul>
+  <li>Proceedings will be published at Springer’s <a href="https://www.springer.com/series/558" target="_blank">Lecture Notes in Computer Science</a>.</li>
+  <li>A selection of the best papers of the conference will be invited to submit to a special issue of <a href="https://www.sciencedirect.com/journal/science-of-computer-programming" target="_blank">Science of Computer Programming</a>.
+<!-- The proceedings are online at
+[https://link.springer.com/book/10.1007/978-3-031-20872-0](https://link.springer.com/book/10.1007/978-3-031-20872-0){:target="_blank"}{:rel="noopener"}.
+--></li>
+</ul>
+
+<h3 id="invited-speakers">Invited Speakers</h3>
+
+<ul>
+  <li><a href="https://www.cs.toronto.edu/~chechik/">Marsha Chechik</a>, University of Toronto, Canada</li>
+  <li><a href="https://www.cis.upenn.edu/~alur/">Rajeev Alur</a>, UPenn, USA</li>
+</ul>
+
+<h3 id="past-editions">Past Editions</h3>
+<ul>
+  <li><a href="https://facs-conference.github.io/2022/" target="_blank">FACS 2022</a>, Oslo, Norway (online), November 10-11, 2022</li>
+  <li><a href="https://facs2021.inria.fr/" target="_blank">FACS 2021</a>, Grenoble, France (online), October 28-29, 2021</li>
+  <li><a href="https://facs-conference.github.io/2019/" target="_blank">FACS 2019</a>, Amsterdam, Netherlands, October 23-25, 2019</li>
+  <li><a href="http://sevlab.postech.ac.kr/facs18/" target="_blank">FACS 2018</a>, Pohang, Korea, October 10-12, 2018</li>
+  <li><a href="http://facs2017.di.uminho.pt/" target="_blank">FACS 2017</a>, Braga, Portugal, October 10-13, 2017</li>
+  <li><a href="http://events.femto-st.fr/facs2016/" target="_blank">FACS 2016</a>, Besançon, France, October 19-21, 2016</li>
+  <li><a href="http://facs2015.ic.uff.br/" target="_blank">FACS 2015</a>, Rio de Janeiro, Brasil, October 14-16, 2015</li>
+  <li><a href="http://facs2014.cs.unibo.it/index.html" target="_blank">FACS 2014</a>, Bertinoro, Italy, September 10-12, 2014</li>
+  <li>FACS 2013, Nanchang, China, October 28-30, 2013</li>
+  <li>FACS 2012, Mountain View, USA, September 12-14, 2012</li>
+  <li><a href="http://facs2011.ifi.uio.no/" target="_blank">FACS 2011</a>, Oslo, Norway, September 14-16, 2011</li>
+  <li><a href="http://www4.di.uminho.pt/facs2010/" target="_blank">FACS 2010</a>, Guimarães, Portugal, October 14-16, 2010</li>
+  <li>FACS 2009, Eindhoven, the Netherlands, November 2-3, 2009</li>
+  <li>FACS 2008, Málaga, Spain, September 10-12, 2008</li>
+  <li>FACS 2007, Sophia-Antipolis, France, September 19-21, 2007</li>
+  <li>FACS 2006, Prague, September 20-22, 2006</li>
+  <li>FACS 2005, Macao, October 24-25, 2005</li>
+  <li>FACS 2003, Pisa, Italy, September 8-9, 2003</li>
+</ul>
+
+<!-- See publish.twitter.com, https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/profile-timeline -->
+<p><a class="twitter-timeline" data-width="600" data-height="600" data-chrome="nofooter" dnt="true" href="https://twitter.com/facs_conf?ref_src=twsrc%5Etfw">Tweets by facs_conf</a></p>
+
+<h1 id="support">Support</h1>
+
+<!-- 
+{:style="text-align:center;"}
+[![logo](assets/img/logo-uio.png "logo")](https://www.uio.no/english/){:target="blank"}
+[![logo](assets/img/logo-cister.png "logo")](https://cister-labs.pt){:target="blank"}
+[![logo](assets/img/logo-adapt-transp.png "logo")](https://www.mn.uio.no/ifi/english/research/projects/adapt/){:target="blank"}
+[![logo](assets/img/logo-FCT1-norte2020.png "logoSmall")](http://norte2020.pt/){:target="blank"}
+
+{:style="text-align:center;"}
+[![logo](assets/img/logo-sirius.png "logoSmall")](https://sirius-labs.no/){:target="blank"}
+[![logo](assets/img/logo-FCT4-FCT.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
+[![logo](assets/img/logo-ECSEL.png "logoSmall")](http://www.fct.mctes.pt/){:target="blank"}
+[![logo](assets/img/logo-emsig.png "logo")](http://www.emsig.net/emsig.net/){:target="blank"}
+
+{:style="text-align:center;"}
+[![logo](assets/img/logo-FCT2-pt2020.png "logoSmall")](https://www.portugal2020.pt/Portal2020){:target="blank"}
+[![logo](assets/img/logo-nfr.png "logo")](https://www.forskningsradet.no/en/){:target="blank"}
+[![logo](assets/img/logo-eu.jpg "logoSmall")](http://ec.europa.eu/){:target="blank"}-->
+<p><a href="https://www.springer.com/gp/computer-science/lncs" target="blank"><img src="assets/img/logo-LNCS.png" alt="logo" title="logo" /></a></p>
+
+<p class="thanks">This event is supported by…</p>
+
+<p class="thanks">Image credit: <a href="https://unsplash.com/photos/tjguVu0GoEM">Christoffer Engström</a> via <a href="https://unsplash.com">Unsplash</a></p>
+
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+:ET

@@ -1,0 +1,177 @@
+title: FACS 2023
+preposition: at
+description: >-
+  19th International Conference on Formal Aspects of Component Software, 19-20 October 2023 (online)
+baseurl: "/2023" # the subpath of your site, e.g. /blog
+url: "https://facs-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+
+theme: jekyll-theme-conference
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Additional exclude from processing
+exclude:
+  - .github/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - purgecss.config.js
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+
+conference:
+
+  # Language
+  lang: en
+
+  # Show theme errors:
+  show_errors: True
+
+  # Navigation bar
+  navigation:
+    # logo:
+    #   name: Digital Society Switzerland
+    #   # img: ''
+    #   url: 'https://digitale-gesellschaft.ch/'
+    links:
+      - name: Call for Papers
+        relative_url: /call-for-papers/
+      - name: Program
+        relative_url: /program/
+      - name: Keynotes
+        relative_url: /talks/
+      - name: Registration
+        relative_url: /registration/
+     # - name: Speakers
+      #  relative_url: /speakers/
+      #- name: Location
+       # relative_url: /location/
+      - name: Committees
+        relative_url: /committees/
+      - name: Past Editions
+        relative_url: /past-editions/
+
+  # Link Preview for Sharing
+  link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
+    disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    # logo:
+    #   img: ''
+    # # Footer
+    # links:
+    #   - name: Program
+    #     relative_url: /program/
+    #   - name: How to get there
+    #     relative_url: /location/
+    #   - name: Tickets
+    #     disabled: true
+    #     absolute_url: ''
+
+  # # Information boxes
+  # info_bars:
+  #   - title: Welcome to the draft website for FACS 2023!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       Most parts of this website are under construction; Call for Papers and schedule will be added later.
+  #   - text: These pages are still unfinished but will be updated in due time.
+  #     color: warning
+  #     pages_only: true
+
+  # # Live indications
+  # live:
+  #   date: 01.01.2020
+  #   timezone: GMT+1
+  #   stop:       240  # in minutes
+  #   streaming:
+  #     enable: true
+  #     pause:     60  # in minutes
+  #     prepend:    5  # in minutes
+  #     extend:     5  # in minutes
+  #   demo:
+  #     enable: false
+  #     duration: 300  # in seconds
+  #     pause:     10  # in seconds
+
+  map:
+    # Initial map center point
+    home_coord: 47.37808, 8.53935
+    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+    # The following do match the Bootstrap design not too badly:
+    #   - Hydda.Full
+    #   - Thunderforest.Neighbourhood
+    #   - Esri.WorldTopoMap
+    map_provider: "OpenStreetMap.Mapnik"
+    default_zoom: 17
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: []
+        color: info
+
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page
+    map: false
+    # Show navbar with list of rooms (currently only "Zoom")
+    hide: false
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 30 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true

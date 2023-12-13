@@ -1,0 +1,33 @@
+I"�<p><img src="../../assets/img/people/christelbaier.jpg" alt="Christel Baier's photo" class="photo-speaker" /></p>
+
+<h2 id="short-bio">Short Bio</h2>
+
+<p>Since 2006, Christel Baier is a full professor and head of the chair for Algebraic and Logic Foundations of Computer Science at the Faculty of Computer Science of the Technische Universität Dresden. From the University of Mannheim she received her Diploma in Mathematics in 1990, her Ph.D. in Computer Science in 1994, and her Habilitation in 1999. She was an associate professor for Theoretical Computer Science at the University of Bonn from 1999 till 2006.</p>
+
+<p>Her research interests include:
+modeling, specification and verification of reactive systems;
+quantitative analysis of stochastic systems, probabilistic model checking;
+coordination languages, compatibility of components;
+temporal and modal logics;
+automata over infinite structures, game theory; and
+verification of infinite-state systems.</p>
+
+<h2 id="probabilistic-causality-in-markovian-models">Probabilistic causality in Markovian models</h2>
+
+<p><strong>Abstract:</strong>
+As modern software systems control more and more aspects of our everyday 
+lives, they grow increasingly complex. Therefore, the goal of modern IT 
+science does not only lie in the development of powerful and versatile 
+systems, but also in providing comprehensive techniques to understand 
+these systems. This motivates research on formal notion of cause-effect 
+relations in operational models that enhance the understanding why 
+properties hold or not, and which system components are mostly 
+responsible for the satisfaction or violation of properties.</p>
+
+<p>The talk will present recent work on formal concepts for cause-effect 
+reasoning in Markov decision processes. It will present formalizations 
+of causality based on the probability-raising principle and related 
+algorithms for checking cause-effect relationships and finding “good”
+causes for a given effect.</p>
+
+:ET

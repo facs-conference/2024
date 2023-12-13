@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="{{ site.conference.lang | default: 'en' }}">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  {% include partials/get_page_title.html -%}
+  <title>
+    {{- page_title -}}
+    {%- unless page_title == empty %} - {% endunless -%}
+    {{- site.title -}}
+  </title>
+  {% include partials/list_page_meta.html %}
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css?t={{ site.time | date: "%s" }}" />
+
+  <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-regular-400.woff2" type="font/woff2" crossorigin="anonymous" />
+  <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-solid-900.woff2" type="font/woff2" crossorigin="anonymous" />
+  {%- if site.conference.live %}
+  <link rel="prefetch" as="image" href="{{ site.baseurl }}/assets/icons/live.svg" type="image/svg+xml" crossorigin="anonymous" />
+  <link rel="prefetch" as="fetch" href="{{ site.baseurl }}/assets/js/data.json" type="application/json" crossorigin="anonymous" />
+  {%- endif %}
+
+  {%- if site.conference.live.streaming.enable -%}
+    {%- for room in site.rooms -%}
+      {%- if room.live %}
+  <link rel="preconnect" href="{{ room.live }}" />
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif %}
+</head>
+
+<body class="pb-4">
+  <header>
+    <!-- navigation bar (web only): -->
+    {%- include partials/navbar.html -%}
+        <!-- Masthead-->
+        <div class="masthead">
+          <!-- Image credit: Christoffer Engström - https://unsplash.com/photos/tjguVu0GoEM -->
+            <div style="background-color: rgba(0, 0, 0, 0.31);max-width: 100%;padding: 6px;;">
+            <div class="container">
+                <div class="masthead-heading text-uppercase">
+                  {% if page.title %}
+                    {{ page.title }}
+                  {% else %}
+                    {{ site.title }}
+                  {% endif %}</div>
+                <div class="masthead-subheading"><p>19th International Conference on Formal Aspects of Component Software</p><p>19-20 October 2023 (online)</p></div>
+                <!-- <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a> -->
+            </div>
+            </div>
+        </div>
+
+    {%- unless page.url == "/" -%}
+      <!-- site title (print only): -->
+      <div class="container d-none d-print-block mt-4 mb-4">
+        <h1 class="display-4">
+          {{ site.title }}
+        </h1>
+      </div>
+    {%- endunless -%}
+
+  </header>
+  <main class="container">
+
+    {%- include partials/info_bar.html -%}
