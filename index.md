@@ -4,8 +4,6 @@ layout: home
 
 # About FACS
 
-Test
-
 The Formal Aspects of Component Software (FACS) conference series targets
 research in formal approaches for distributed components and services. The
 conferences cover topics including models, languages, analysis and
