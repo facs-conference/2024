@@ -3,6 +3,9 @@ layout: post
 title: "Committees"
 ---
 
+To be announced!
+
+<!--
 # Program Committee
 
 - [Antónia Lopes](mal@di.fc.ul.pt), Universidade de Lisboa, Portugal
@@ -63,3 +66,4 @@ title: "Committees"
  - [Gwen Salaün](https://convecs.inria.fr/people/Gwen.Salaun/), Université Grenoble Alpes, France
  - [Luís Soares Barbosa (Chair)](https://unu.edu/experts/luis-soares-barbosa.html), University of Minho, Portugal
  - [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology, Netherlands
+-->
