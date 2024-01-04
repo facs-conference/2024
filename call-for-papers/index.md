@@ -47,41 +47,20 @@ FACS 2024 will feature a special track on "Formal Methods of Component Software 
 - Final version due: July 17th, 2024
 - Conference: September 9th-10th, 2024
 
-<!--
 # Submissions
 
 We solicit high-quality submissions reporting on:
-
-  - **A** - full papers: original research, applications and experiences, or surveys 
-    (16 pages);
-  - **B** - short papers: tools and demonstrations (6 pages).
+  - Full papers (A): original research, applications and experiences, or surveys (16 pages);
+  - Short papers (B): tools and demonstrations (6 pages);
+  - Special-track papers (C): original research, applications and experiences within the scope of "Formal Methods of Component Software in the context of emerging computational paradigms" (16 pages).
 
 The page limit excludes references and appendices. Papers should be prepared in LaTeX, adhering to the Springer LNCS format and Guidelines. For further information please visit the LNCS page at [https://www.springer.com/lncs](https://www.springer.com/lncs){:target="_blank"}.
 
+Accepted papers from all categories will appear in the proceedings of the conference. <!-- published by Springer, in the Lecture Notes for Computer Science series.-->
 
-Accepted papers from all categories will appear in the proceedings of the conference published by Springer, in the Lecture Notes for Computer Science series.
-
-Please use the easychair link below to submit your paper:
+Please use the EasyChair link below to submit your paper:
   
-- [https://easychair.org/conferences/?conf=facs2023](https://easychair.org/conferences/?conf=facs2023){:target="_blank"}
+- [https://easychair.org/conferences/?conf=facs2024](https://easychair.org/conferences/?conf=facs2024){:target="_blank"}
 
-The authors of a selected subset of accepted papers will be invited to submit an extended version of their papers to a special issue of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming){:target="_blank"}.
-
-### Full and tool/short publications (A, B)
-
-All submissions in categories __A__ and __B__ must be original, unpublished,
-and not submitted concurrently for publication elsewhere. A special journal
-issue is planned for extended versions of selected papers from categories A
-and B from FACS 2023.
-
-### Journal-first publications (C)
-
-Submissions in category __C__ must be 4-page abstracts of journal papers published after January 1st, 2023. Authors of published papers in high-quality journals can submit a proposal to present their journal paper at FACS. The journal paper must adhere to the following criteria:
-
- - It is clearly in the scope of FACS.
- - It is recent: only journal papers available after January 1st, 2023 (online or printed) can be presented.
- - It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
- - It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
-
-Journal-first submissions must be marked as such in EasyChair, and they must explicitly include pointers to the journal publication (such as a DOI).
--->
+The authors of a selected subset of accepted papers will be invited to submit an extended version of their papers to a special issue.
+<!-- of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming){:target="_blank"}. -->
