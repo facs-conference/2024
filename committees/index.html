@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Committees"
+---
+<ul>
+{% for item in site.data.pc %}
+	<li><a href="{{ item.url }}">{{ item.name }}</a> ({{ org }})</li>
+{% endfor %}
+</ul>
