@@ -10,6 +10,7 @@
 - name: Diego Marmsoler
   org: University of Exeter, United Kingdom
   web: https://marmsoler.com/
+  chair: true  
 - name: Fatemeh Ghassemi
   org: University of Tehran, Iran
   web: http://fatemehghassemi.ir/
@@ -40,6 +41,7 @@
 - name: Meng Sun
   org: Peking University, China
   web: https://www.math.pku.edu.cn/teachers/sunm/indexen.html
+  chair: true
 - name: Mieke Massink
   org: CNR-ISTI, Italy
   web: http://www1.isti.cnr.it/~Massink/
