@@ -4,10 +4,12 @@ title: "Committees"
 ---
 
 <h1>Chairs</h1>
+<ul>
 {% assign chairs = site.data.pc | where: "chair", true %}
 {% for item in chairs %}
 	<li><a href="{{ item.web }}">{{ item.name }}</a> ({{ item.org }})</li>
 {% endfor %}
+</ul>
 
 <h1>Program Committee</h1>
 <ul>
