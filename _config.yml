@@ -66,18 +66,18 @@ conference:
     links:
       - name: Call for Papers
         relative_url: /call-for-papers/
-      - name: Program
-        relative_url: /program/
+      - name: Committees
+        relative_url: /committees/
       - name: Keynotes
         relative_url: /talks/
+      - name: Program
+        relative_url: /program/        
       - name: Registration
         relative_url: /registration/
      # - name: Speakers
       #  relative_url: /speakers/
       #- name: Location
        # relative_url: /location/
-      - name: Committees
-        relative_url: /committees/
       - name: Past Editions
         relative_url: /past-editions/
 
