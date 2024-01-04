@@ -2,14 +2,8 @@
 layout: post
 title: Keynotes
 ---
-<h1>Keynotes</h1>
-
-<ul>
-  {% for talk in site.talks %}
-    <li>
-      <h2>{{ talk.name }}</h2>
-      <p>{{ talk.bio | markdownify }}</p>
-      <p>{{ author.content | markdownify }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for talk in site.talks %}
+<h1>{{ talk.name }}</h1>
+<p>{{ talk.bio | markdownify }}</p>
+<p>{{ author.content | markdownify }}</p>
+{% endfor %}
