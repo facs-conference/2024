@@ -1,6 +1,6 @@
-# FACS2022
+# FACS2024
 
-Website of the FACS2022 conference.
+Website of the FACS2024 conference.
 
 The documentation for the theme is at
 https://github.com/DigitaleGesellschaft/jekyll-theme-conference

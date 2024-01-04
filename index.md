@@ -14,6 +14,8 @@ physical systems, etc.
 The 20th edition of FACS will be co-located with [Formal Methods 24](https://www.fm24.polimi.it/).
 It will take place on September 09-10 2024 in Milan, Italy.
 
+<!-- # News -->
+
 <!--
 ### (14/10/23) <span style="color:red">Paper preprints published</span>
 
@@ -37,27 +39,6 @@ The deadline for abstracts and paper submissions has been extended to <span styl
 
   - [Marsha Chechik](https://www.cs.toronto.edu/~chechik/), University of Toronto, Canada
  - [Rajeev Alur](https://www.cis.upenn.edu/~alur/), UPenn, USA
-
-### Past Editions
-- [FACS 2023](https://facs-conference.github.io/2023/){:target="_blank"}, online, October 19-20, 2023
-- [FACS 2022](https://facs-conference.github.io/2022/){:target="_blank"}, online, November 10-11, 2022
-- [FACS 2021](https://facs2021.inria.fr/){:target="_blank"}, online, October 28-29, 2021
-- [FACS 2019](https://facs-conference.github.io/2019/){:target="_blank"}, Amsterdam, Netherlands, October 23-25, 2019
-- [FACS 2018](http://sevlab.postech.ac.kr/facs18/){:target="_blank"}, Pohang, Korea, October 10-12, 2018
-- [FACS 2017](http://facs2017.di.uminho.pt/){:target="_blank"}, Braga, Portugal, October 10-13, 2017
-- [FACS 2016](http://events.femto-st.fr/facs2016/){:target="_blank"}, Besançon, France, October 19-21, 2016
-- [FACS 2015](http://facs2015.ic.uff.br/){:target="_blank"}, Rio de Janeiro, Brasil, October 14-16, 2015
-- [FACS 2014](http://facs2014.cs.unibo.it/index.html){:target="_blank"}, Bertinoro, Italy, September 10-12, 2014
-- FACS 2013, Nanchang, China, October 28-30, 2013
-- FACS 2012, Mountain View, USA, September 12-14, 2012
-- [FACS 2011](http://facs2011.ifi.uio.no/){:target="_blank"}, Oslo, Norway, September 14-16, 2011
-- [FACS 2010](http://www4.di.uminho.pt/facs2010/){:target="_blank"}, Guimarães, Portugal, October 14-16, 2010
-- FACS 2009, Eindhoven, the Netherlands, November 2-3, 2009
-- FACS 2008, Málaga, Spain, September 10-12, 2008
-- FACS 2007, Sophia-Antipolis, France, September 19-21, 2007
-- FACS 2006, Prague, September 20-22, 2006
-- FACS 2005, Macao, October 24-25, 2005
-- FACS 2003, Pisa, Italy, September 8-9, 2003
 
 <!-- See publish.twitter.com, https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/profile-timeline -->
 <a class="twitter-timeline"  data-width="600" data-height="600" data-chrome="nofooter" dnt="true" href="https://twitter.com/facs_conf?ref_src=twsrc%5Etfw">Tweets by facs_conf</a>
@@ -92,7 +73,6 @@ This event is supported by...
 
 {:class="thanks"}
 Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com)
+-->
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
--->
