@@ -2,6 +2,14 @@
 layout: post
 title: "Committees"
 ---
+
+<h1>Chairs</h1>
+{% assign chairs = site.data.pc | where: "chair", True %}
+{% for item in chairs %}
+	<li><a href="{{ item.web }}">{{ item.name }}</a> ({{ item.org }})</li>
+{% endfor %}
+
+<h1>Program Committee</h1>
 <ul>
 {% for item in site.data.pc %}
 	<li><a href="{{ item.web }}">{{ item.name }}</a> ({{ item.org }})</li>
