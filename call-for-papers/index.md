@@ -5,7 +5,7 @@ title: "Call for Papers"
 
 # Scope
 
-FACS 2024 is concerned with how formal methods can be applied to component-based software and system development. Formal methods have provided foundations for component-based software through research on mathematical models for components, composition and adaptation, and rigorous approaches to verification, deployment, testing, and certification. Furthermore, we embrace a trend in recent FACS editions by introducing a new special track of “Formal Methods at Large”: it will accept submissions about advances based on formal methods across all kinds of software-intensive systems, possibly unrelated to components or composition.
+FACS 2024 is concerned with how formal methods can be applied to component-based software and system development. Formal methods have provided foundations for component-based software through research on mathematical models for components, composition and adaptation, and rigorous approaches to verification, deployment, testing, and certification.
 
 # Topics
 
