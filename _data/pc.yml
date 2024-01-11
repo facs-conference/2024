@@ -1,3 +1,9 @@
+- name: Antónia Lopes
+  org: Universidade de Lisboa, Portugal
+  web: https://www.di.fc.ul.pt/~mal/
+- name: Anton Wijs
+  org: Eindhoven University of Technology, Netherlands
+  web: https://www.tue.nl/en/research/researchers/anton-wijs
 - name: Arpit Sharma
   org: Indian Institute of Science Education and Research Bhopal (IISERB), India
   web: https://sites.google.com/iiserb.ac.in/arpit-sharma/
@@ -29,6 +35,12 @@
 - name: José Proença
   org: University of Porto, Portugal
   web: https://jose.proenca.org/
+- name: Keigo Imai
+  org: DeNA Co., Japan
+  web: https://keigoimai.info/
+- name: Kenneth Johnson
+  org: Auckland University of Technology, New Zealand
+  web: https://academics.aut.ac.nz/kenneth.johnson
 - name: Kyungmin Bae
   org: Pohang University of Science and Technology (POSTECH), South Korea
   web: http://sv.postech.ac.kr/~kmbae/
@@ -51,9 +63,24 @@
 - name: Peter Ölveczky
   org: University of Oslo, Norway
   web: https://olveczky.se/
+- name: Samir Genaim
+  org: Universidad Complutense de Madrid, Spain
+  web: https://costa.fdi.ucm.es/~genaim/home/viewpost.php?post=Welcome
+- name: Shoji Yuen
+  org: Nagoya University, Japan
+  web: https://www.trs.css.i.nagoya-u.ac.jp/person/yuen/
+- name: Violet Ka I Pun
+  org: Western Norway University of Applied Sciences, Norway
+  web: https://violet.foldr.org/
 - name: Achim Brucker
   org: University of Exeter, United Kingdom
   web: https://brucker.ch/
+- name: Simon Bliudze
+  org: INRIA Lille, France
+  web: https://www.bliudze.me/simon/
+- name: Mario Gleirscher
+  org: Universität Bremen, Germany
+  web: https://www.gleirscher.at/mg/
 - name: Simon Foster
   org: University of York, United Kingdom
   web: https://www-users.york.ac.uk/~sf786/simon-foster/
