@@ -1,3 +1,6 @@
+- name: Achim Brucker
+  org: University of Exeter, United Kingdom
+  web: https://brucker.ch/
 - name: Antónia Lopes
   org: Universidade de Lisboa, Portugal
   web: https://www.di.fc.ul.pt/~mal/
@@ -53,6 +56,9 @@
 - name: Marie Farrell
   org: The University of Manchester, United Kingdom
   web: https://mariefarrell.github.io/
+- name: Mario Gleirscher
+  org: Universität Bremen, Germany
+  web: https://www.gleirscher.at/mg/
 - name: Meng Sun
   org: Peking University, China
   web: https://www.math.pku.edu.cn/teachers/sunm/indexen.html
@@ -60,6 +66,9 @@
 - name: Mieke Massink
   org: CNR-ISTI, Italy
   web: http://www1.isti.cnr.it/~Massink/
+- name: Min Zhang
+  org: ECNU, China
+  web: https://faculty.ecnu.edu.cn/_s43/zm2_en_6072/main.psp
 - name: Olga Kouchnarenko
   org: University of Franche-Comté, France
   web: https://members.femto-st.fr/Olga-Kouchnarenko/
@@ -72,27 +81,18 @@
 - name: Shoji Yuen
   org: Nagoya University, Japan
   web: https://www.trs.css.i.nagoya-u.ac.jp/person/yuen/
-- name: Violet Ka I Pun
-  org: Western Norway University of Applied Sciences, Norway
-  web: https://violet.foldr.org/
-- name: Achim Brucker
-  org: University of Exeter, United Kingdom
-  web: https://brucker.ch/
 - name: Simon Bliudze
   org: INRIA Lille, France
   web: https://www.bliudze.me/simon/
-- name: Mario Gleirscher
-  org: Universität Bremen, Germany
-  web: https://www.gleirscher.at/mg/
 - name: Simon Foster
   org: University of York, United Kingdom
   web: https://www-users.york.ac.uk/~sf786/simon-foster/
+- name: Violet Ka I Pun
+  org: Western Norway University of Applied Sciences, Norway
+  web: https://violet.foldr.org/
 - name: Xiyue Zhang
   org: Oxford University, United Kingdom
   web: https://zhang-xiyue.github.io/
-- name: Min Zhang
-  org: ECNU, China
-  web: https://faculty.ecnu.edu.cn/_s43/zm2_en_6072/main.psp
 - name: Zhenbang Chen
   org: NUDT, China
   web: https://zbchen.github.io/
