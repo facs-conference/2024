@@ -3,7 +3,7 @@ layout: post
 title: "Call for Papers"
 ---
 
-[Download PDF version]({{ site.baseurl | append: "/assets/" | append: FACS-CFP2024-01-31.pic }})
+[Download PDF version]({{ site.baseurl | append: "/assets/" | append: "FACS-CFP2024-01-31.pdf" }})
 
 # Overview
 
