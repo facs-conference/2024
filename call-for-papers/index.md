@@ -62,7 +62,7 @@ The authors of a selected subset of accepted papers will be invited to
 submit an extended version of their papers to a special issue of the Science
 of Computer Programming journal.
 
-#Important Dates
+# Important Dates
 
 - Abstract submission: 8 May, 2024
 - Full paper submission: 15 May, 2024
