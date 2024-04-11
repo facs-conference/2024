@@ -59,8 +59,10 @@ all categories will be published in the FACS proceedings and published
 as a volume in Springer LNCS series.
 
 The authors of a selected subset of accepted papers will be invited to
-submit an extended version of their papers to a special issue of the Science
+submit an extended version of their papers to a **special issue** of the Science
 of Computer Programming journal.
+
+FACS 2024 will recognize the most outstanding submissions with a **best paper award**.
 
 # Important Dates
 
