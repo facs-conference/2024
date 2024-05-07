@@ -66,8 +66,8 @@ FACS 2024 will recognize the most outstanding submissions with a **best paper aw
 
 # Important Dates
 
-- Abstract submission: 8 May, 2024
-- Full paper submission: 15 May, 2024
-- Notification: 26 June, 2024
+- Abstract submission: ~~8 May, 2024~~ 23 May, 2024
+- Full paper submission: ~~15 May, 2024~~ 30 May, 2024
+- Notification: ~~26 June, 2024~~ 03 July, 2024
 - Final version due: 17 July, 2024
 - Conference: 9-10 September, 2024
