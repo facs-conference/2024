@@ -73,6 +73,7 @@ This event is supported by...
 
 {:class="thanks"}
 Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) via [Unsplash](https://unsplash.com)
--->
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+-->
