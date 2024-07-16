@@ -2,17 +2,17 @@
 # For each speaker, add a file in `_speakers/`
 # For each room, add a file in `_rooms/`
 days:
-  - name: Thursday, 10 Nov
-    abbr: Thu
-    date: 2022-11-10
+  - name: Monday, 09 Sep
+    abbr: Mon
+    date: 2024-09-09
     rooms:
-      - name: Zoom
+      - name: TBA
         talks:
 
           # Welcome
-          - name: '09:45 - Welcome to FACS 2022'
-            time_start: '09:45' # rounded down to 9:30
-            time_end: '10:00'
+          - name: 'Opening of FACS 2024'
+            time_start: '09:00'
+            time_end: '09:30'
 
           # Modelling & Verification 1
           - name: 'Compositional Simulation of Abstract State Machines for Safety Critical Systems'
@@ -61,11 +61,11 @@ days:
             time_end: '17:30'
 
 
-  - name: Friday, 11 Nov
-    abbr: Fri
-    date: 2022-11-11
+  - name: Tuesday, 10 Sep
+    abbr: Tue
+    date: 2024-09-10
     rooms:
-      - name: Zoom
+      - name: TBA
         talks:
           # Logics & Semantics
           - name: 'Decompositional Branching Bisimulation Minimisation of Monolithic Processes'
