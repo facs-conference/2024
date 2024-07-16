@@ -69,10 +69,10 @@ conference:
         relative_url: /call-for-papers/
       - name: Committees
         relative_url: /committees/
-      - name: Talks
-        relative_url: /talks/
       - name: Program
         relative_url: /program/        
+      - name: Talks
+        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
       - name: Registration
