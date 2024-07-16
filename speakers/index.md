@@ -3,73 +3,47 @@ layout: speaker-overview
 title: ""
 ---
 
-To be announced!
-
-<!--
 # Invited Speakers
 
 <div class="container">
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
-        <a href="/2022/speakers/christelbaier/">
+        <a href="/2024/speakers/anacavalcanti/">
             <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-christelbaier.jpg" alt="Christel Baier" title="Christel Baier" width="150"/>
+            <img src="/2024/assets/img/ana.jpg" alt="Ana Cavalcanti" title="Ana Cavalcanti" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b> Christel Baier <br/>
-        <b>Affiliation:</b> TU Dresden, Germany <br/>
-        <!-- <b>Homepage:</b> <a href="https://wwwtcs.inf.tu-dresden.de/~baier/">https://wwwtcs.inf.tu-dresden.de/~baier/</a> -->
+        <p><b>Name:</b> Ana Cavalcanti <br/>
+        <b>Affiliation:</b> University of York, UK <br/>
         </p>
-        <!-- <p><b>Topic:</b> Low power Machine Learning Techniques for Edge-AI </p> -->
     </div>
 </div>
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
-        <a href="/2022/speakers/renatoneves/">
+        <a href="/2024/speakers/davidparker/">
             <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-renatoneves.jpg" alt="Renato Neves" title="Renato Neves" width="150"/>
+            <img src="/2024/assets/img/people/david.jpg" alt="David Parker" title="David Parker" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b> Renato Neves <br/>
-        <b>Affiliation:</b> University of Minho, Portugal <br/>
-        <!-- <b>Homepage:</b> <a href="https://alfa.di.uminho.pt/~nevrenato/">https://alfa.di.uminho.pt/~nevrenato/</a> -->
+        <p><b>Name:</b> David Parker <br/>
+        <b>Affiliation:</b> University of Oxford, UK <br/>
         </p>
-        <!-- <p><b>Topic:</b> Low power Machine Learning Techniques for Edge-AI </p> -->
     </div>
 </div>
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
-        <a href="/2022/speakers/inaschaefer/">
+        <a href="/2022/speakers/geguangpu/">
             <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-inaschaefer.jpg" alt="Ina Schaefer" title="Ina Schaefer" width="150"/>
+            <img src="/2024/assets/img/pu.png" alt="Geguang Pu" title="Geguang Pu" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">
-        <p><b>Name:</b> Ina Schaefer <br/>
-        <b>Affiliation:</b> Karlsruhe IT, Germany <br/>
-        <!-- <b>Homepage:</b> <a href="https://tva.kastel.kit.edu/team_77.php">https://tva.kastel.kit.edu/team_77.php</a> <br/> -->
-        <b>Topic:</b> Correctness-by-Construction Engineering - Can we build better software? </p>
-    </div>
-</div>
-<div class="row justify-content-start p-3">
-    <div class="col-sm-2">
-        <a href="/2022/speakers/volkerstolz/">
-            <div class="speakers-hover"></div>
-            <img src="/2022/assets/img/people/small-volkerstolz.jpg" alt="Volker Stolz" title="Volker Stolz" width="150"/>
-        </a>
-    </div>
-    <div class="col-sm-10">
-        <p><b>Name:</b> Volker Stolz <br/>
-        <b>Affiliation:</b> Norway University of Applied Science, Norway <br/>
-        <!-- <b>Homepage:</b> <a href="https://ict.hvl.no/people/volker-stolz/">https://ict.hvl.no/people/volker-stolz/</a> -->
-        </p>
-        <!-- <p><b>Topic:</b> Low power Machine Learning Techniques for Edge-AI </p> -->
+        <p><b>Name:</b> Geguang Pu <br/>
+        <b>Affiliation:</b> East China Normal University, China <br/>
     </div>
 </div>
 </div>
 
 # All Authors
-
--->

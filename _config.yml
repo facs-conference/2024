@@ -69,14 +69,14 @@ conference:
         relative_url: /call-for-papers/
       - name: Committees
         relative_url: /committees/
-      - name: Keynotes
+      - name: Talks
         relative_url: /talks/
       - name: Program
         relative_url: /program/        
       - name: Registration
         relative_url: /registration/
-     # - name: Speakers
-      #  relative_url: /speakers/
+      - name: Speakers
+        relative_url: /speakers/
       #- name: Location
        # relative_url: /location/
       - name: Past Editions
@@ -144,8 +144,18 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: []
+      - name: Logics & Semantics
         color: info
+      - name: Types & Choreographies
+        color: warning
+        # color: danger
+        # color: success
+      - name: Modelling & Verification
+        color: success
+      - name: Invited Talks
+        color: danger
+      - name: Organisation
+        color: light
 
     # Hide icons on talk overview page
     hide_icons: false

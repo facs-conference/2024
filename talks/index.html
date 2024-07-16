@@ -1,12 +1,3 @@
 ---
-layout: post
-title: Keynotes
+layout: talk-overview
 ---
-{% for talk in site.talks %}
-<h1>{{ talk.name }}</h1>
-<p>
-<img src="{{ site.baseurl | append: "/assets/img/" | append: talk.pic }}" alt="{{ talk.name }}" style="float:right;width:170px;margin-left:15px;">
-{{ talk.bio }}
-</p>
-<p>{{ talk.content | markdownify }}</p>
-{% endfor %}
