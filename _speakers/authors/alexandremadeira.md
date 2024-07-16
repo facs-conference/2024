@@ -1,5 +1,5 @@
 ---
-name: Alexandre	Madeira
+name: Alexandre Madeira
 first_name: Alexandre
 last_name: Madeira
 ---

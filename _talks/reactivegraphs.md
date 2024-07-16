@@ -4,7 +4,7 @@ speakers:
   - David Tinoco
   - Alexandre Madeira
   - Manuel A. Martins
-  - José Proença. 
+  - José Proença 
 categories:
   - Formal Models
 links:

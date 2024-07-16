@@ -1,5 +1,5 @@
 ---
-name: David	Tinoco
+name: David Tinoco
 first_name: David
 last_name: Tinoco
 ---

@@ -1,5 +1,5 @@
 ---
-name: Manuel A.	Martins
+name: Manuel A. Martins
 first_name: Manuel A.
 last_name: Martins
 ---
