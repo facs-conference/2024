@@ -73,10 +73,10 @@ conference:
         relative_url: /talks/
       - name: Program
         relative_url: /program/        
-      - name: Registration
-        relative_url: /registration/
       - name: Speakers
         relative_url: /speakers/
+      - name: Registration
+        relative_url: /registration/
       #- name: Location
        # relative_url: /location/
       - name: Past Editions
