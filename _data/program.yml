@@ -14,52 +14,53 @@ days:
             time_start: '09:00'
             time_end: '09:30'
 
-          # Modelling & Verification 1
-          - name: 'Compositional Simulation of Abstract State Machines for Safety Critical Systems'
-            time_start: '10:00'
+          # Invited
+          - name: 'Ana Cavalcanti'
+            time_start: '09:30'
             time_end: '10:30'
-          - name: 'Specifying Source Code and Signal-based Behaviour of Cyber-Physical System Components'
+
+          - name: 'Coffee Break'
             time_start: '10:30'
             time_end: '11:00'
-          - name: 'Formally Characterizing the Effect of Model Transformations on System Properties'
+
+          # Session 1 Verification and Testing (Chair: To be confirmed)
+          - name: 'Formal modeling and verification of behavior trees using BIP framework'
             time_start: '11:00'
             time_end: '11:30'
 
-          - name: 'Coffee Break'
+          - name: 'Verified fault handling for modern BMCs'
             time_start: '11:30'
             time_end: '12:00'
 
-          # Invited
-          - name: 'Semantics for Hybrid Components - Categorical Tools and Techniques'
+          - name: 'Testing Compositionality'
             time_start: '12:00'
-            time_end: '13:00'
-
+            time_end: '12:30'
+           
           - name: 'Lunch Break'
-            time_start: '13:00'
+            time_start: '12:30'
             time_end: '14:00'
 
-          # Invited
-          - name: 'Correctness-by-Construction Engineering - Can we build better software?'
+          # Session 2 Formal Models (Chair: To be confirmed)
+          - name: 'Correct Pattern-based Development Through Refinements and Weakest Preconditions Calculus'
             time_start: '14:00'
-            time_end: '15:00'
+            time_end: '14:30'
 
-          - name: 'Coffee Break'
+          - name: 'Coq Formalization of Orientation Representation: Matrix, Euler Angles, Axis-Angle and Quaternion'
+            time_start: '14:30'
+            time_end: '15:00'
+            
+          - name: 'Reactive graphs in action'
             time_start: '15:00'
             time_end: '15:30'
 
-          - name: 'Interpretation and Formalization of the Right-of-Way Rules'
+          - name: 'Coffee Break'
             time_start: '15:30'
             time_end: '16:00'
-          - name: 'Formal Model-In-The-Loop for Secure Industrial Control Networks'
+            
+          # Invited
+          - name: 'David Parker'
             time_start: '16:00'
-            time_end: '16:30'
-          - name: 'Debugging of BPMN Processes Using Coloration Techniques'
-            time_start: '16:30'
             time_end: '17:00'
-          - name: 'WEASY: A Modelling Tool for Optimized BPMN Processes'
-            time_start: '17:00'
-            time_end: '17:30'
-
 
   - name: Tuesday, 10 Sep
     abbr: Tue
@@ -67,51 +68,25 @@ days:
     rooms:
       - name: TBA
         talks:
-          # Logics & Semantics
-          - name: 'Decompositional Branching Bisimulation Minimisation of Monolithic Processes'
-            time_start: '10:00'
+          # Invited
+          - name: 'Geguang Pu'
+            time_start: '09:00'
             time_end: '10:30'
-          - name: 'Embeddings Between State and Action Based Probabilistic Logics'
+
+          - name: 'Coffee Break'
             time_start: '10:30'
             time_end: '11:00'
-          - name: 'Footprint Logic for Object-Oriented Components'
+
+          # Session 3: Security and Blockchain (Chair: To be confirmed)
+          - name: 'Extracting formal smart-contract specifications from natural language with LLMs'
             time_start: '11:00'
-            time_end: '11:30'
+            time_end: '11:30'            
 
-          - name: 'Coffee Break'
+          - name: 'How do Asynchronous Communication Models impact the Composability of Information Flow Security?'
             time_start: '11:30'
-            time_end: '12:00'
-
-          # Invited
-          - name: 'Probabilistic causality in Markovian models'
-            time_start: '12:00'
-            time_end: '13:00'            
-
-          - name: 'Lunch Break'
-            time_start: '13:00'
-            time_end: '14:00'
-
-          # Invited
-          - name: 'Hardware-Components for Runtime Monitoring'
-            time_start: '14:00'
-            time_end: '15:00'            
-
-          - name: 'Coffee Break'
-            time_start: '15:00'
-            time_end: '15:30'
-
-          # Types & Choreographies
-          - name: 'Open Compliance in Multiparty Sessions'
-            time_start: '15:30'
-            time_end: '16:00'
-          - name: 'Realisability of Branching Pomsets'
-            time_start: '16:00'
-            time_end: '16:30'
-          - name: 'Liquidity Analysis in Resource-Aware Programming'
-            time_start: '16:30'
-            time_end: '17:00'
+            time_end: '12:00'            
 
           # Closing
-          - name: 'Best-paper award and Closing of FACS 2022'
-            time_start: '17:00'
-            time_end: '17:30'
+          - name: 'Best-paper award and Closing of FACS 2024'
+            time_start: '12:00'
+            time_end: '12:30'
