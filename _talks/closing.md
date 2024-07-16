@@ -1,5 +1,5 @@
 ---
-name: 'Best-paper award and Closing of FACS 2022'
+name: 'Best-paper award and Closing of FACS 2024'
 speakers:
   - Silvia Lizeth Tapia Tarifa
   - José Proença
