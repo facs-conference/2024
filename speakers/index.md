@@ -23,7 +23,7 @@ title: ""
     <div class="col-sm-2">
         <a href="/2024/speakers/davidparker/">
             <div class="speakers-hover"></div>
-            <img src="/2024/assets/img/people/david.jpg" alt="David Parker" title="David Parker" width="150"/>
+            <img src="/2024/assets/img/david.jpg" alt="David Parker" title="David Parker" width="150"/>
         </a>
     </div>
     <div class="col-sm-10">
