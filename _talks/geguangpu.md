@@ -1,5 +1,5 @@
 ---
-name: 'Geguang Pu '
+name: 'Geguang Pu'
 speakers:
   - Geguang Pu
 categories:
