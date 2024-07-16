@@ -2,19 +2,116 @@
 # For each speaker, add a file in `_speakers/`
 # For each room, add a file in `_rooms/`
 days:
-  - name: Thursday, 19 Oct
+  - name: Thursday, 10 Nov
     abbr: Thu
-    date: 2023-10-19
-    
+    date: 2022-11-10
+    rooms:
+      - name: Zoom
+        talks:
 
-  - name: Friday, 20 Oct
+          # Welcome
+          - name: '09:45 - Welcome to FACS 2022'
+            time_start: '09:45' # rounded down to 9:30
+            time_end: '10:00'
+
+          # Modelling & Verification 1
+          - name: 'Compositional Simulation of Abstract State Machines for Safety Critical Systems'
+            time_start: '10:00'
+            time_end: '10:30'
+          - name: 'Specifying Source Code and Signal-based Behaviour of Cyber-Physical System Components'
+            time_start: '10:30'
+            time_end: '11:00'
+          - name: 'Formally Characterizing the Effect of Model Transformations on System Properties'
+            time_start: '11:00'
+            time_end: '11:30'
+
+          - name: 'Coffee Break'
+            time_start: '11:30'
+            time_end: '12:00'
+
+          # Invited
+          - name: 'Semantics for Hybrid Components - Categorical Tools and Techniques'
+            time_start: '12:00'
+            time_end: '13:00'
+
+          - name: 'Lunch Break'
+            time_start: '13:00'
+            time_end: '14:00'
+
+          # Invited
+          - name: 'Correctness-by-Construction Engineering - Can we build better software?'
+            time_start: '14:00'
+            time_end: '15:00'
+
+          - name: 'Coffee Break'
+            time_start: '15:00'
+            time_end: '15:30'
+
+          - name: 'Interpretation and Formalization of the Right-of-Way Rules'
+            time_start: '15:30'
+            time_end: '16:00'
+          - name: 'Formal Model-In-The-Loop for Secure Industrial Control Networks'
+            time_start: '16:00'
+            time_end: '16:30'
+          - name: 'Debugging of BPMN Processes Using Coloration Techniques'
+            time_start: '16:30'
+            time_end: '17:00'
+          - name: 'WEASY: A Modelling Tool for Optimized BPMN Processes'
+            time_start: '17:00'
+            time_end: '17:30'
+
+
+  - name: Friday, 11 Nov
     abbr: Fri
-    date: 2023-10-20
-    
+    date: 2022-11-11
+    rooms:
+      - name: Zoom
+        talks:
+          # Logics & Semantics
+          - name: 'Decompositional Branching Bisimulation Minimisation of Monolithic Processes'
+            time_start: '10:00'
+            time_end: '10:30'
+          - name: 'Embeddings Between State and Action Based Probabilistic Logics'
+            time_start: '10:30'
+            time_end: '11:00'
+          - name: 'Footprint Logic for Object-Oriented Components'
+            time_start: '11:00'
+            time_end: '11:30'
 
+          - name: 'Coffee Break'
+            time_start: '11:30'
+            time_end: '12:00'
 
-          
+          # Invited
+          - name: 'Probabilistic causality in Markovian models'
+            time_start: '12:00'
+            time_end: '13:00'            
 
+          - name: 'Lunch Break'
+            time_start: '13:00'
+            time_end: '14:00'
 
+          # Invited
+          - name: 'Hardware-Components for Runtime Monitoring'
+            time_start: '14:00'
+            time_end: '15:00'            
 
+          - name: 'Coffee Break'
+            time_start: '15:00'
+            time_end: '15:30'
 
+          # Types & Choreographies
+          - name: 'Open Compliance in Multiparty Sessions'
+            time_start: '15:30'
+            time_end: '16:00'
+          - name: 'Realisability of Branching Pomsets'
+            time_start: '16:00'
+            time_end: '16:30'
+          - name: 'Liquidity Analysis in Resource-Aware Programming'
+            time_start: '16:30'
+            time_end: '17:00'
+
+          # Closing
+          - name: 'Best-paper award and Closing of FACS 2022'
+            time_start: '17:00'
+            time_end: '17:30'
