@@ -1,5 +1,5 @@
 ---
-name: Qiang	Wang
+name: Qiang Wang
 first_name: Qiang
 last_name: Wang
 ---
