@@ -34,7 +34,7 @@ title: ""
 </div>
 <div class="row justify-content-start p-3">
     <div class="col-sm-2">
-        <a href="/2022/speakers/geguangpu/">
+        <a href="/2024/speakers/geguangpu/">
             <div class="speakers-hover"></div>
             <img src="/2024/assets/img/pu.png" alt="Geguang Pu" title="Geguang Pu" width="150"/>
         </a>
