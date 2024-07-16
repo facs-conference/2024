@@ -1,5 +1,5 @@
 ---
-name: Pedro	Antonino
+name: Pedro Antonino
 first_name: Pedro
 last_name: Antonino
 ---
