@@ -1,5 +1,5 @@
 ---
-name: Jean Paul	Bodeveix
+name: Jean Paul Bodeveix
 first_name: Jean Paul
 last_name: Bodeveix
 ---
