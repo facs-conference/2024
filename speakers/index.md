@@ -42,7 +42,8 @@ title: ""
     <div class="col-sm-10">
         <p><b>Name:</b> Geguang Pu <br/>
         <b>Affiliation:</b> East China Normal University, China <br/>
-    </div>
+		</p>
+	</div>
 </div>
 </div>
 
