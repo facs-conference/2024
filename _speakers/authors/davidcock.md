@@ -1,5 +1,5 @@
 ---
-name: David	Cock
+name: David Cock
 first_name: David
 last_name: Cock
 ---

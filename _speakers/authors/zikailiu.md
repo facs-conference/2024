@@ -1,5 +1,5 @@
 ---
-name: Zikai	Liu
+name: Zikai Liu
 first_name: Zikai
 last_name: Liu
 ---
