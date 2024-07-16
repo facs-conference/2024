@@ -70,7 +70,7 @@ days:
         talks:
           # Invited
           - name: 'Geguang Pu'
-            time_start: '09:00'
+            time_start: '09:30'
             time_end: '10:30'
 
           - name: 'Coffee Break'
