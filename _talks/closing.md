@@ -9,4 +9,4 @@ categories:
 ---
 
 
-Closing session of FACS 2022, where the best-paper award will be announced.
+Closing session of FACS 2024, where the best-paper award will be announced.
