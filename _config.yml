@@ -144,13 +144,13 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Logics & Semantics
+      - name: Verification and Testing
         color: info
-      - name: Types & Choreographies
+      - name: Formal Models
         color: warning
         # color: danger
         # color: success
-      - name: Modelling & Verification
+      - name: Security and Blockchain
         color: success
       - name: Invited Talks
         color: danger
