@@ -6,4 +6,4 @@ categories:
   - Plenary Talks
 ---
 
-TBA
+LOPSTR/PPDP plenary speaker
