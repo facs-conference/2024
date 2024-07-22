@@ -154,6 +154,8 @@ conference:
         color: success
       - name: Invited Talks
         color: danger
+      - name: Plenary Talks
+        color: danger
       - name: Organisation
         color: light
 
