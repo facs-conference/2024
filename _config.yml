@@ -183,7 +183,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 30 # in minutes
+    time_steps: 10 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
