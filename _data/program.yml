@@ -15,11 +15,11 @@ days:
             time_end: '10:20'
             
           # Welcome
-          - name: 'Opening of FACS 2024'
+          - name: 'Coffee Break'
             time_start: '10:20'
             time_end: '10:50'
 
-          - name: 'Coffee Break'
+          - name: 'Opening of FACS 2024'
             time_start: '10:50'
             time_end: '11:00'
 
