@@ -41,7 +41,7 @@ days:
             time_end: '14:00'
 
           # Invited
-          - name: 'Rosemary Monahan'
+          - name: 'Formalising Requirements for Systems Verification'
             time_start: '14:00'
             time_end: '15:20'
             
@@ -70,7 +70,7 @@ days:
       - name: TBA
         talks:
           # Invited
-          - name: 'Ningning Xie'
+          - name: 'Safe and Easy Compile-Time Generative Programming'
             time_start: '09:00'
             time_end: '10:20'
             
@@ -88,7 +88,7 @@ days:
             time_end: '14:00'
             
           # Invited
-          - name: 'Thierry Lecomte'
+          - name: 'B+ or how to model system properties in a formal software model'
             time_start: '14:00'
             time_end: '15:20'
            
