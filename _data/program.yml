@@ -10,7 +10,7 @@ days:
         talks:
 
           # Invited
-          - name: 'Ana Cavalcanti'
+          - name: 'Comparing Reactive Models and Cyclic Components of Robotic Systems: The RoboStar approach to model-based testing'
             time_start: '09:00'
             time_end: '10:20'
             
@@ -50,7 +50,7 @@ days:
             time_end: '15:50'
 
           # Invited
-          - name: 'David Parker'
+          - name: 'Verification and Control of Stochastic Multi-agent Systems'
             time_start: '15:50'
             time_end: '16:50'
             
@@ -79,7 +79,7 @@ days:
             time_end: '10:50'
             
           # Invited
-          - name: 'Geguang Pu'
+          - name: 'The experiences of developing the industrial-strength tools for modeling, testing and verification: a formal methods perspective'
             time_start: '10:50'
             time_end: '12:10'
 
