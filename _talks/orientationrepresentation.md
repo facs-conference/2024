@@ -4,7 +4,7 @@ speakers:
   - Zhengpu Shi
   - Gang Chen
 categories:
-  - Formal Models
+  - Verification and Testing
 links:
   - name: https://
     absolute_url: https://

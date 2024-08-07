@@ -7,7 +7,7 @@ speakers:
   - Huadong Dai
   - Yongxin Zhao
 categories:
-  - Verification and Testing
+  - Formal Models
 links:
   - name: https://
     absolute_url: https://

@@ -24,7 +24,7 @@ days:
             time_end: '11:00'
 
           # Session 1 Verification and Testing (Chair: To be confirmed)
-          - name: 'Formal modeling and verification of behavior trees using BIP framework'
+          - name: 'Coq Formalization of Orientation Representation: Matrix, Euler Angles, Axis-Angle and Quaternion'
             time_start: '11:00'
             time_end: '11:30'
 
@@ -101,7 +101,7 @@ days:
             time_start: '15:50'
             time_end: '16:20'
 
-          - name: 'Coq Formalization of Orientation Representation: Matrix, Euler Angles, Axis-Angle and Quaternion'
+          - name: 'Formal modeling and verification of behavior trees using BIP framework'
             time_start: '16:20'
             time_end: '16:50'
             
