@@ -1,3 +1,3 @@
 ---
-name: coffee
+name: Building 3 court
 ---

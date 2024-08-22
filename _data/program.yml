@@ -56,7 +56,7 @@ days:
             time_end: '17:50'               
 
            
-      - name: coffee
+      - name: Building 3 court
         talks:
  
           - name: 'Coffee Break'
@@ -113,7 +113,7 @@ days:
             time_start: '17:20'
             time_end: '17:50'
 
-      - name: coffee
+      - name: Building 3 court
         talks:           
 
           - name: 'Coffee Break'
