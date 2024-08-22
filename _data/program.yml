@@ -78,6 +78,7 @@ days:
     
       - name: Room O. De Donato
         talks:
+        
           # Invited
           - name: 'Safe and Easy Compile-Time Generative Programming'
             time_start: '09:00'
@@ -90,6 +91,7 @@ days:
             
       - name: Room 3.0.2
         talks:
+        
           # Invited
           - name: 'The experiences of developing the industrial-strength tools for modeling, testing and verification: a formal methods perspective'
             time_start: '10:50'
