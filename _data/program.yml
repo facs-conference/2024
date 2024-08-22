@@ -6,7 +6,8 @@ days:
     abbr: Mon
     date: 2024-09-09
     rooms:
-      - name: Room 3.0.2
+    
+      - name: Room O. De Donato
         talks:
 
           # Invited
@@ -14,11 +15,20 @@ days:
             time_start: '09:00'
             time_end: '10:20'
             
-          # Welcome
-          - name: 'Coffee Break'
-            time_start: '10:20'
-            time_end: '10:50'
+          # Invited
+          - name: 'Formalising Requirements for Systems Verification'
+            time_start: '14:00'
+            time_end: '15:20'
+            
+          # Invited
+          - name: 'Verification and Control of Stochastic Multi-agent Systems'
+            time_start: '15:50'
+            time_end: '16:50'
 
+      - name: Room 3.0.2
+        talks:
+            
+          # Welcome
           - name: 'Opening of FACS 2024'
             time_start: '10:50'
             time_end: '11:00'
@@ -35,24 +45,6 @@ days:
           - name: 'Testing Compositionality'
             time_start: '12:00'
             time_end: '12:30'
-           
-          - name: 'Lunch Break'
-            time_start: '12:30'
-            time_end: '14:00'
-
-          # Invited
-          - name: 'Formalising Requirements for Systems Verification'
-            time_start: '14:00'
-            time_end: '15:20'
-            
-          - name: 'Coffee Break'
-            time_start: '15:20'
-            time_end: '15:50'
-
-          # Invited
-          - name: 'Verification and Control of Stochastic Multi-agent Systems'
-            time_start: '15:50'
-            time_end: '16:50'
             
           # Session 3: Security and Blockchain (Chair: To be confirmed)
           - name: 'Extracting formal smart-contract specifications from natural language with LLMs'
@@ -62,40 +54,47 @@ days:
           - name: 'How do Asynchronous Communication Models impact the Composability of Information Flow Security?'
             time_start: '17:20'
             time_end: '17:50'               
-            
+
+           
+      - name: coffee
+        talks:
+ 
+          - name: 'Coffee Break'
+            time_start: '10:20'
+            time_end: '10:50'
+
+          - name: 'Lunch Break'
+            time_start: '12:30'
+            time_end: '14:00'
+
+          - name: 'Coffee Break'
+            time_start: '15:20'
+            time_end: '15:50'
+
   - name: Tuesday, 10 Sep
     abbr: Tue
     date: 2024-09-10
     rooms:
-      - name: Room 3.0.2
+    
+      - name: Room O. De Donato
         talks:
           # Invited
           - name: 'Safe and Easy Compile-Time Generative Programming'
             time_start: '09:00'
             time_end: '10:20'
             
-          - name: 'Coffee Break'
-            time_start: '10:20'
-            time_end: '10:50'
-            
           # Invited
           - name: 'The experiences of developing the industrial-strength tools for modeling, testing and verification: a formal methods perspective'
             time_start: '10:50'
             time_end: '12:10'
-
-          - name: 'Lunch Break'
-            time_start: '12:10'
-            time_end: '14:00'
             
           # Invited
           - name: 'B+ or how to model system properties in a formal software model'
             time_start: '14:00'
             time_end: '15:20'
-           
-          - name: 'Coffee Break'
-            time_start: '15:20'
-            time_end: '15:50'
             
+      - name: Room 3.0.2
+        talks:           
           # Session 2 Formal Models (Chair: To be confirmed)
           - name: 'Correct Pattern-based Development Through Refinements and Weakest Preconditions Calculus'
             time_start: '15:50'
@@ -113,3 +112,18 @@ days:
           - name: 'Best-paper award and Closing of FACS 2024'
             time_start: '17:20'
             time_end: '17:50'
+
+      - name: coffee
+        talks:           
+
+          - name: 'Coffee Break'
+            time_start: '10:20'
+            time_end: '10:50'
+
+          - name: 'Lunch Break'
+            time_start: '12:10'
+            time_end: '14:00'
+
+          - name: 'Coffee Break'
+            time_start: '15:20'
+            time_end: '15:50'
