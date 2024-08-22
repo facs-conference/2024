@@ -55,7 +55,6 @@ days:
             time_start: '17:20'
             time_end: '17:50'               
 
-           
       - name: Building 3 court
         talks:
  
