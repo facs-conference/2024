@@ -20,11 +20,6 @@ days:
             time_start: '14:00'
             time_end: '15:20'
             
-          # Invited
-          - name: 'Verification and Control of Stochastic Multi-agent Systems'
-            time_start: '15:50'
-            time_end: '16:50'
-
       - name: Room 3.0.2
         talks:
             
@@ -45,6 +40,11 @@ days:
           - name: 'Testing Compositionality'
             time_start: '12:00'
             time_end: '12:30'
+            
+          # Invited
+          - name: 'Verification and Control of Stochastic Multi-agent Systems'
+            time_start: '15:50'
+            time_end: '16:50'
             
           # Session 3: Security and Blockchain (Chair: To be confirmed)
           - name: 'Extracting formal smart-contract specifications from natural language with LLMs'
