@@ -6,7 +6,7 @@ days:
     abbr: Mon
     date: 2024-09-09
     rooms:
-      - name: TBA
+      - name: Room 3.0.2
         talks:
 
           # Invited
@@ -67,7 +67,7 @@ days:
     abbr: Tue
     date: 2024-09-10
     rooms:
-      - name: TBA
+      - name: Room 3.0.2
         talks:
           # Invited
           - name: 'Safe and Easy Compile-Time Generative Programming'
