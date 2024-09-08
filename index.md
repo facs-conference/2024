@@ -77,3 +77,8 @@ Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) v
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 -->
+
+# Proceedings
+
+The proceedings are online at https://link.springer.com/book/9783031712609
+
