@@ -5,7 +5,7 @@ speakers:
   - Jan Tretmans
   - Lars van Arragon
 categories:
-  - Verification and Testing
+  - Formal Models
 links:
   - name: https://
     absolute_url: https://
