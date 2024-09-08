@@ -80,5 +80,5 @@ Image credit: [Christoffer Engström](https://unsplash.com/photos/tjguVu0GoEM) v
 
 # Proceedings
 
-The proceedings are online at https://link.springer.com/book/9783031712609
+The proceedings are available online at [https://link.springer.com/book/9783031712609](https://link.springer.com/book/9783031712609)
 
