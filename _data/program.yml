@@ -37,7 +37,7 @@ days:
             time_start: '11:30'
             time_end: '12:00'
 
-          - name: 'Testing Compositionality'
+          - name: 'Correct Pattern-based Development Through Refinements and Weakest Preconditions Calculus'
             time_start: '12:00'
             time_end: '12:30'
             
@@ -96,7 +96,7 @@ days:
             time_end: '12:10'
 
           # Session 2 Formal Models (Chair: To be confirmed)
-          - name: 'Correct Pattern-based Development Through Refinements and Weakest Preconditions Calculus'
+          - name: 'Testing Compositionality'
             time_start: '15:50'
             time_end: '16:20'
 
